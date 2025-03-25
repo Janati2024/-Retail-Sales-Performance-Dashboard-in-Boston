@@ -47,17 +47,12 @@ Built for performance monitoring and decision-making, this dashboard enables ret
 
 ---
 
-## 📸 Dashboard Preview
+## 🖼️ Dashboard Preview
 
-> _Upload your image file to the root folder and replace the file name below_
-
-```markdown
-![Retail Sales Dashboard](retail_dashboard.png)
+![Retail Sales Dashboard](Screen%20shot%20-sales%20price%20in%20Boston.png)
 
 ---
-## 🖼️ Dashboard Link
 
-👉 **[Click here to view the interactive Power BI dashboard](https://app.powerbi.com/groups/me/reports/4b633dab-bfda-4130-9381-32cf1e5d69ff/a438e001386888501430?experience=power-bi)**
+## 🔗 Dashboard Link
 
-
-
+👉 **[Click here to view the interactive Power BI dashboard](PASTE_PUBLIC_LINK_HERE)**
