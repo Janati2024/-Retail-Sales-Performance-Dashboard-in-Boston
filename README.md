@@ -55,4 +55,4 @@ Built for performance monitoring and decision-making, this dashboard enables ret
 
 ## 🔗 Dashboard Link
 
-👉 **[Click here to view the interactive Power BI dashboard](PASTE_PUBLIC_LINK_HERE)**
+👉 **[Click here to view the interactive Power BI dashboard](https://app.powerbi.com/groups/me/reports/4b633dab-bfda-4130-9381-32cf1e5d69ff/a438e001386888501430?experience=power-bi)**
